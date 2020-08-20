@@ -9,4 +9,4 @@ As part of this program two mini-projects were completed showcasing the skills o
 | file | Description |
 | --- | --- |
 | amazon_kindle_review_analysis.ipynb | this file includes EDA and a simple classifier, built for the sentiment analysis of amazon kindle reviews |
-| movielens_EDA | this file includes EDA on Movielens data |
+| movielens_EDA.ipynb | this file includes EDA on Movielens data |
